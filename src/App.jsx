@@ -43,42 +43,42 @@ export default function App() {
       artist: "Anirudh Ravichander",
       image:
         "https://c.saavncdn.com/981/Coolie-Disco-From-Coolie-Tamil-2024-20240509170935-500x500.jpg",
-      audio: "/src/data/Powerhouse.mp3",
+      audio: "./src/data/Powerhouse.mp3",
     },
     {
       title: "I'm the Danger",
       artist: " Siddharth Basrur, Anirudh Ravichander, Heisenberg",
       image:
         "https://c.saavncdn.com/497/Coolie-Original-Motion-Picture-Soundtrack-Kannada-2025-20250814103505-500x500.jpg",
-      audio: "/src/data/I Am The Danger - Siddharth Basrur.mp3",
+      audio: "./src/data/I Am The Danger - Siddharth Basrur.mp3",
     },
     {
       title: "God Bless You",
       artist: " G.V. Prakash Kumar, Anirudh Ravichander, Paal Dabba, Rokesh",
       image:
         "https://c.saavncdn.com/357/God-Bless-U-From-Good-Bad-Ugly-Tamil-2025-20250329191006-500x500.jpg",
-      audio: "/src/data/God Bless You.mp3",
+      audio: "./src/data/God Bless You.mp3",
     },
     {
       title: "Hukum",
       artist: "Anirudh Ravichander, Super Subu",
       image:
         "https://c.saavncdn.com/959/Hukum-Thalaivar-Alappara-From-Jailer-Tamil-2023-20230717071502-500x500.jpg",
-      audio: "/src/data/Hukum.mp3",
+      audio: "./src/data/Hukum.mp3",
     },
     {
       title: "Believer",
       artist: "Imagine Dragons",
       image:
         "https://c.saavncdn.com/248/Evolve-English-2017-20180716230950-500x500.jpg",
-      audio: "/src/data/Imagine Dragons - Believer (Lyrics) - 7clouds.mp3",
+      audio: "./src/data/Imagine Dragons - Believer (Lyrics) - 7clouds.mp3",
     },
     {
       title: "Perfect",
       artist: "Ed Sheeran",
       image:
         "https://c.saavncdn.com/286/WMG_190295851286-English-2017-500x500.jpg",
-      audio: "/src/data/Ed Sheeran - Perfect - LatinHype.mp3",
+      audio: "./src/data/Ed Sheeran - Perfect - LatinHype.mp3",
     },
     {
       title: "Kathalikathey Maname",
@@ -86,7 +86,7 @@ export default function App() {
       image:
         "https://c.saavncdn.com/015/Imaikkaa-Nodigal-Tamil-2017-20240208130403-500x500.jpg",
       audio:
-        "/src/data/Kadhalikathey (lyrics)  Imaika Nodigal  HIP HOP THAMIZHA - Sing Along.mp3",
+        "./src/data/Kadhalikathey (lyrics)  Imaika Nodigal  HIP HOP THAMIZHA - Sing Along.mp3",
     },
   ];
 
